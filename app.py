@@ -65,7 +65,7 @@ if submitted:
         "Net_Profit": net_profit,
         "Bagi_Hasil_Petani": porsi_petani,
         "Tabungan_Petani": tabungan_petani,
-        "Musi Mushee": porsi_musi_mushee
+        "Musi_Mushee": porsi_musi_mushee
     }
     
     try:
