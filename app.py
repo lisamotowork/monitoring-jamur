@@ -52,7 +52,7 @@ if submitted:
 
     # --- BAGIAN PENGIRIMAN DATA ---
     # GANTI LINK DI BAWAH INI DENGAN 'WEB APP URL' YANG ANDA SALIN DARI LANGKAH 1
-    url_penerima = "https://script.google.com/macros/s/AKfycbzOZZICfOJ1PYeEYor9bArvH_HmF1AnOSti5B5gNEr1-17wSo0ejlkCfs5EIWtZmbWkqg/exec"
+    url_penerima = "https://script.google.com/macros/s/AKfycbztWsRY3K-IqwLvTxYpfPOEmP7_OzY1ZmnfXz98xdMWyr_oWMGDQI6pNW_dNvP83aQUQw/exec"
     
     payload = {
         "Tanggal": tanggal.strftime('%Y-%m-%d'),
